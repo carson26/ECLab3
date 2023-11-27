@@ -1,1 +1,1 @@
-# ECLab3
+# Count EC toward Exams
